@@ -8,6 +8,10 @@
 
 /* Common */
 
+html {
+    scroll-behavior: smooth;
+}
+
 .active-button {
     color: #fff;
     display: inline-block;
@@ -63,7 +67,6 @@
 
 /* BODY CODE */
 #main {
-    scroll-behavior: smooth;
 }
 
 #header {
