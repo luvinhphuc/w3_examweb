@@ -63,7 +63,7 @@
 
 /* BODY CODE */
 #main {
-
+    scroll-behavior: smooth;
 }
 
 #header {
