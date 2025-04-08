@@ -242,6 +242,7 @@ html {
 }
 
 #content .section-heading{
+    padding: 16px 0;
     margin: 10px 0;
     text-align: center;
     font-size: 30px;
