@@ -28,6 +28,7 @@ html {
     background-color: #000;
     text-decoration: none;
     border: none;
+    appearance: none;
 }
 .active-button:hover {
     background-color: #ccc;
